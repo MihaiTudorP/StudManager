@@ -5,7 +5,7 @@ The project is supposed to demonstrate various relational database design, devel
  - Java EE
  - Spring Framework
  - Hibernate ORM
- - Tomcat 8.5
+ - Tomcat 8+
  
 This application is supposed to manage the student activity. Among the features are:
  - Virtual Catalogue
