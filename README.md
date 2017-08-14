@@ -1,4 +1,4 @@
-# StudManager
+# StudentManager
 Free Student Activity Management System
 
 The project is supposed to demonstrate various relational database design, development and maintenance techniques and several technologies such as:
